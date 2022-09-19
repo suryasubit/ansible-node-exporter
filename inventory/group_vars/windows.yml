@@ -1,5 +1,5 @@
 # Variables used in Playbook
-win_main_dir: "D:"
+win_main_dir: "C:"
 win_exporter_dir_name: exporters
 wmi_exporter_version: 0.18.1
 

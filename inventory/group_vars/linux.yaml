@@ -1,6 +1,6 @@
 
 # Global variables
-home: /home/prescintouser
+home: /home/ansible
 system_bin_dir: /usr/local/bin/
 service_file_directory: /etc/systemd/system/
 exporter_dir_name: exporters
